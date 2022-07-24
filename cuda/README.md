@@ -22,6 +22,7 @@ sh train_slot-gate_classifier_filter.sh
 sh run_generation.sh
 ```
 CUDA data saves in ```./cuda_data```
+** Sample data is available in ```./cuda_data/sampleData.zip``` **
 
 ### Run Evaluation
 Before evaulation, make sure that coco-dst data is generated via 
