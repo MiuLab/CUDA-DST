@@ -1,6 +1,8 @@
 # Controllable User Dialogue Act Augmentation for Dialogue State Tracking
 - Paper link: 
 
+![image](https://user-images.githubusercontent.com/2268109/180732891-414dbe8d-f5a5-470c-a6e7-c136d3587ac9.png)
+
 
 
 ## Installation
@@ -47,9 +49,15 @@ See ```./simpletod/README.md```
 ### Details of TripPy: 
 See ```./trippy-public/README.md```
 
-## Citation
+## Reference
+Please cite the following paper:
 ```
-Pass
+@inproceedings{lai2022controllable,
+  title={Controllable User Dialogue Act Augmentation for Dialogue State Tracking},
+  author={Lai, Chun-Mao and Hsu, Ming-Hao and Huang, Chao-Wei and Chen, Yun-Nung},
+  booktitle={Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue},
+  year={2022}
+}
 ```
 
 ## License
