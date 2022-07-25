@@ -1,5 +1,6 @@
 # Controllable User Dialogue Act Augmentation for Dialogue State Tracking
 - Paper link: https://www.csie.ntu.edu.tw/~yvchen/doc/SIGDIAL22_CUDA.pdf
+- CUDA-augmented data: https://github.com/MiuLab/CUDA-DST/blob/main/cuda/cuda_data/sampleData.zip
 
 ![image](https://user-images.githubusercontent.com/2268109/180732891-414dbe8d-f5a5-470c-a6e7-c136d3587ac9.png)
 
